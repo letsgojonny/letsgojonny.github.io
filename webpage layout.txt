@@ -1,14 +1,26 @@
 
-2-17 이어서
 
-------------------------------------------------
+1. div로 구역 나누기
+
+2. image, video 어떻게 넣을지, 
+
+3. click event 페이지 이동,,
+   --> 페이지 내용 어떻게 채울지 + image, video
 
 
-1. 넣을 내용 : 오토, health care, 등산, 투망, 스펙
-                자기소개
-2. 개발자 과정 : 커리큘럼(mapping) / 강의노트 / 
+4. bootstrap (button group 디자인)
+              ex) dropdown
 
-3. 수료 후 : vision / 방향
+5. 
+
+---------------------------------------------------------------------------------------------
+
+1. contents : bike, health care, climbing, net cast, spec
+              self intro., sometimes diary
+
+2. Dev course : 커리큘럼(mapping) / 강의노트 / 
+
+3. After the course : vision / direction
 
 
 
